@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GematriaForTruthDates", "GematriaForTruthDates\GematriaForTruthDates.csproj", "{F5A0FD63-B16E-4316-9FD6-89F80487E678}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatedDateSpan Example", "CalculatedDateSpan Example\CalculatedDateSpan Example.csproj", "{24A52AA4-6393-41DB-A33C-32592B58DF9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5A0FD63-B16E-4316-9FD6-89F80487E678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5A0FD63-B16E-4316-9FD6-89F80487E678}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5A0FD63-B16E-4316-9FD6-89F80487E678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5A0FD63-B16E-4316-9FD6-89F80487E678}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24A52AA4-6393-41DB-A33C-32592B58DF9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24A52AA4-6393-41DB-A33C-32592B58DF9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24A52AA4-6393-41DB-A33C-32592B58DF9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24A52AA4-6393-41DB-A33C-32592B58DF9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15A9CA3D-5071-42AE-A5B4-ED7F4420499F}
+	EndGlobalSection
+EndGlobal
