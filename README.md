@@ -1,3 +1,4 @@
+![gt_screenshot_2022_strange](https://user-images.githubusercontent.com/31824477/131839523-63dd0bc7-523b-44b8-8076-62c7dd1f8ed7.jpg)
 # GematriaForTruthDates
 Gematria For Truth API Support for Generated Date Spans. Used mainly in numerology for discovering relationships between two event dates given variable calendar numbers. For exaple 2/22/2022 occurs exactly 222 years, 222 months, 222 weeks, and 322 dates after July 4, 1776.  Includes console app example.
 
